@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;
@@ -44,7 +44,7 @@ namespace DSDeaths {
 
         static bool Write(int value) {
             try {
-                File.WriteAllText("DSDeaths.txt", value.ToString());
+                File.WriteAllText("DSDeaths.txt", "Deaths: " + value.ToString());
             } catch (IOException) {
                 Console.WriteLine("Could not write to DSDeaths.txt.");
                 return false;
