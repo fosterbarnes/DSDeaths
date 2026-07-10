@@ -6,8 +6,8 @@
 <td align="center" valign="top">
 <a href="https://github.com/fosterbarnes/DSDeaths/releases/download/v1.0.0/DSDeaths_Portable.exe"><img src="./res/svg/download_portable_x64.svg" width="180" height="auto" alt="Portable"/></a></td>
 <td align="center" valign="top">
-<a href="https://github.com/fosterbarnes/nvidiaUpd/releases/download/v1.0/nvidiaUpd-x64-installer.exe">
-<img src="./res/svg/download_x64.svg" width="180" height="auto" alt="x64 installer"/></a></td>
+<a href="https://github.com/fosterbarnes/DSDeaths/releases/download/v1.0.0/DSDeaths_Installer.exe">
+<img src="./res/svg/download_x64.svg" width="180" height="auto" alt="Installer"/></a></td>
 </tr></tbody></table>
 
 ## Purpose
